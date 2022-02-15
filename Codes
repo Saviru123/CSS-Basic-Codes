@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+body {
+      bg-image:images/milk.jpg;
+}
+h1 {
+    color:blue;
+}
+p {
+  text-align: center;
+  color: red;
+} 
+#para1 {
+  text-align: center;
+  color: red;
+}
+</style>
+</head>
+
+<body>
+
+<h1>H1 is effected by the style will be affected by the style.</h1>
+<p>This paragraph is effected by the style</p>
+<p id="para1">This pragraph that includes a id is effected by the syle</p>
+
+</body>
+</html>
